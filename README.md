@@ -1,3 +1,10 @@
+
+#  keeper app build with React.js 
+which is a clone of Google Keep so that whenever you have any new ideas then you can simply take a note and add it to your
+own Keeper app. the React framework technologies I am working with are:
+JSX, Components, Props, Mapping Data, Hooks...
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
